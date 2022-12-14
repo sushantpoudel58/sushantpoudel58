@@ -8,10 +8,15 @@ I've been learning to code for 1 years.I started my IT journey with HTML CSS and
 
 *   🌍  I'm from Butwal, Nepal
 *   ✉️  You can contact me at [poudelsushant44@gmail.com](mailto:poudelsushant44@gmail.com)
-*   🧠  I'm learning Frontend Development<a href="https://www.github.com/sushantpoudel58" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Frontend Development
+
+<a href="https://www.github.com/sushantpoudel58" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sushantpoudel58?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Sushant63363251" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Sushant63363251?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+                
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -25,11 +30,11 @@ I've been learning to code for 1 years.I started my IT journey with HTML CSS and
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-                    
-                  ### Socials
+
+  ### Socials
                   
                   
-                <p align="left">
+             <p align="left">
                           
                       <a href="https://discord.com/users/su_shant58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
