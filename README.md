@@ -6,7 +6,7 @@ Computer Engineering Student
 
 I've been learning to code for 1 years.I started my IT journey with HTML CSS and JS.
 
-*   🌍  I'm based in Butwal, Nepal
+*   🌍  I'm from Butwal, Nepal
 *   ✉️  You can contact me at [poudelsushant44@gmail.com](mailto:poudelsushant44@gmail.com)
 *   🧠  I'm learning Frontend Development<a href="https://www.github.com/sushantpoudel58" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sushantpoudel58?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Sushant63363251" target="_blank" rel="noreferrer"><img
