@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Poudel</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantpoudel58&label=Profile%20views&color=0e75b6&style=flat" alt="sushantpoudel58" /> </p>
 
